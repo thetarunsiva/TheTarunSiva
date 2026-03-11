@@ -1,6 +1,6 @@
 # 👋🏻 Hi there! I'm Tarun
 
-**`Aspiring Full-Stack Developer | Competitive Programmer | Speed Cuber | Influencer`**
+**`Aspiring Full-Stack Developer | Competitive Programmer | Speed Cuber`**
 ---
 
 ## 👨‍💻 Meet the Developer
