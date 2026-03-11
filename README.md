@@ -6,7 +6,7 @@
 ## 👨‍💻 Meet the Developer
 
 - **CSE Student @ SSN College of Engineering**
-- Building **Full-Stack Applications that solve real problems** that I face 
+- Building **Full-Stack Applications that solve real problems** I encounter
 - Writing **Clean, efficient, and scalable systems** out of my sheer interest
 - Curious about **System design, backend architecture and modern developer tools**
 
