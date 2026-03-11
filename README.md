@@ -91,18 +91,17 @@
 
 <p align="center">
 
-🧠 Speedcubing is where my fascination with <b>algorithms, optimization, and pattern recognition</b> first began.
+Speedcubing is where my fascination with <b>algorithms, optimization, and pattern recognition</b> first began.
 Much like programming, solving a cube is about discovering the <b>most efficient sequence of moves</b> to transform chaos into perfectly matching colors!
 
 </p>
 
 <p align="center">
 
-⚡ <b>Personal Best:</b> Sub 10 (9.69s)
-📊 <b>Average of 5:</b> Sub 16 (15.59s)
-🧠 <b>Method:</b> CFOP
-🎥 <b>Creator of:</b> <a href="https://www.youtube.com/channel/UC0vpldu75y4_hAtjTdGeumA" target="_blank">Callofcubes</a> — My SpeedCubing YT Channel
-
+- <b>Method:</b> CFOP
+- <b>Personal Best:</b> Sub 10 (9.69s)
+- <b>Average of 5:</b> Sub 16 (15.59s)
+- <b>Creator of:</b> <a href="https://www.youtube.com/channel/UC0vpldu75y4_hAtjTdGeumA" target="_blank">Callofcubes</a> — My SpeedCubing YT Channel
 </p>
 
 
