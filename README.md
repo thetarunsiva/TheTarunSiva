@@ -1,14 +1,14 @@
-# Hi there! I'm Tarun Siva
+# 👋🏻 Hi there! I'm Tarun
 
-**`Competitive Programmer | Aspiring Full-Stack Developer | Speed Cuber`**
+**`Aspiring Full-Stack Developer | Competitive Programmer | Speed Cuber | Influencer`**
 ---
 
 ## 👨‍💻 Meet the Developer
 
-- 🎓 **CSE Student @ SSN College of Engineering**
-- 💻 Building **Full-Stack Applications that solve real problems**
-- ⚙️ Writing **Clean, efficient, and scalable systems**
-- 🚀 Curious about **System design, backend architecture and modern developer tools**
+- **CSE Student @ SSN College of Engineering**
+- Building **Full-Stack Applications that solve real problems** that I face 
+- Writing **Clean, efficient, and scalable systems** out of my sheer interest
+- Curious about **System design, backend architecture and modern developer tools**
 
 ---
 
