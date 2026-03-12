@@ -1,0 +1,37 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: 
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+      
+      # 1. Generate the SVGs
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: "thetarunsiva"
+          
+      # 2. THE HACK: Find and replace the text in the generated SVGs
+      - name: Rename "other" label
+        run: |
+          sed -i 's/>other</>Other</g' profile-3d-contrib/*.svg
+
+      # 3. Commit & Push the modified files
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated 3d profile with custom text"; then
+            git push
+          fi
