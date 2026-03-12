@@ -96,3 +96,4 @@ Much like programming, solving a cube is about discovering the <b>most efficient
 
 </p>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
