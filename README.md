@@ -1,34 +1,14 @@
-# Hi there, I'm Tarun :)
-
+# Not just another 'GitHub' Profile
 **`Aspiring Full-Stack Developer | Competitive Programmer | Speed Cuber`**
 ---
-
-## 👨‍💻 Meet the Developer
-
 - **CSE Student @ SSN College of Engineering**
-- Building **Full-Stack Applications that solve real problems** I encounter
+- Building **Full-Stack Applications that solve real problems I encounter**
 - Writing **Clean, efficient, and scalable systems** out of my sheer interest
 - Curious about **System design, backend architecture and modern developer tools**
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/thetarunsiva">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:thetarunsiva@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -59,7 +39,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thetarunsiva&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -68,7 +48,7 @@
 
 ---
 
-## 🧩 Other than Coding, I solve Rubik's Cubes
+## Other than Coding, I solve Rubik's Cubes
 
 <p align="center">
 
@@ -102,4 +82,17 @@ Much like programming, solving a cube is about discovering the <b>most efficient
 - <b>Creator of:</b> <a href="https://www.youtube.com/channel/UC0vpldu75y4_hAtjTdGeumA" target="_blank">Callofcubes</a> — My SpeedCubing YT Channel
 </p>
 
+## Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/thetarunsiva">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:thetarunsiva@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
