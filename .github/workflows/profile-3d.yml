@@ -25,6 +25,7 @@ jobs:
       - name: Rename "other" label
         run: |
           sed -i 's/>other</>Other</g' profile-3d-contrib/*.svg
+          sed -i 's/>contributions</>Contributions</g' profile-3d-contrib/*.svg
 
       # 3. Commit & Push the modified files
       - name: Commit & Push
