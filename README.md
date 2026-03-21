@@ -3,6 +3,7 @@
 ---
 `Aspiring Full-Stack Developer | Competitive Programmer | Speed Cuber`
 ---
+
 - **CSE Student @ SSN College of Engineering**
 - Building **Full-Stack Applications that solve real problems I encounter**
 - Writing **Clean, efficient, and scalable systems** out of my sheer interest
@@ -53,6 +54,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thetarunsiva&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thetarunsiva&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## GitHub Skyline:
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+<br>
 
 ---
 
@@ -108,7 +115,3 @@ Much like programming, solving a cube is about discovering the <b>most efficient
 
 ---
 
-## Contributions:
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
