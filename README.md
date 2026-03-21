@@ -1,4 +1,6 @@
 # Not just another 'GitHub' Profile
+
+---
 `Aspiring Full-Stack Developer | Competitive Programmer | Speed Cuber`
 ---
 - **CSE Student @ SSN College of Engineering**
@@ -45,8 +47,6 @@
 </p>
 -->
 
----
-
 ## GitHub Stats:
 
 <p align="center">
@@ -90,6 +90,8 @@ Much like programming, solving a cube is about discovering the <b>most efficient
 - <b>Creator of:</b> <a href="https://www.youtube.com/channel/UC0vpldu75y4_hAtjTdGeumA" target="_blank">Callofcubes</a> — My SpeedCubing YT Channel
 </p>
 
+---
+
 ## Let's Connect:
 
 <p align="center">
@@ -104,4 +106,9 @@ Much like programming, solving a cube is about discovering the <b>most efficient
 
 </p>
 
+---
+
+## Contributions:
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
