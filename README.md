@@ -11,7 +11,7 @@
 
 ---
 
-## Tech Stack:
+## Tech Stack
 <p align="center">
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -54,7 +54,7 @@
 
 ---
 
-## GitHub Skyline:
+## GitHub Skyline
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Skyline" width="100%" />
@@ -63,7 +63,7 @@
 
 ---
 
-## Let's Connect:
+## Let's Connect
 
 <p align="center">
 
@@ -79,7 +79,7 @@
 
 ---
 
-## Beyond Code, I Cube:
+## Beyond Code
 
 <p align="center">
 
