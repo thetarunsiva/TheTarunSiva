@@ -44,6 +44,8 @@
 
 </p>
 
+---
+
 ## GitHub Stats:
 
 <p align="center">
@@ -75,7 +77,7 @@
 
 ---
 
-## Other than Coding, I solve Rubik's Cubes:
+## Beyond Code, I Cube:
 
 <p align="center">
 
