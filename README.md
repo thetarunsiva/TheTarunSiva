@@ -11,7 +11,6 @@
 
 ---
 
-<!--
 ## Tech Stack:
 <p align="center">
 
@@ -36,17 +35,14 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
--->
 
 ## GitHub Stats:
 
@@ -60,6 +56,22 @@
 ## GitHub Skyline:
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <br>
+
+---
+
+## Let's Connect:
+
+<p align="center">
+
+<a href="https://linkedin.com/in/thetarunsiva">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:thetarunsiva@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -95,22 +107,6 @@ Much like programming, solving a cube is about discovering the <b>most efficient
 - <b>Personal Best:</b> Sub 10 (9.69s)
 - <b>Average of 5:</b> Sub 16 (15.59s)
 - <b>Creator of:</b> <a href="https://www.youtube.com/channel/UC0vpldu75y4_hAtjTdGeumA" target="_blank">Callofcubes</a> — My SpeedCubing YT Channel
-</p>
-
----
-
-## Let's Connect:
-
-<p align="center">
-
-<a href="https://linkedin.com/in/thetarunsiva">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:thetarunsiva@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
