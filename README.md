@@ -55,7 +55,10 @@
 ---
 
 ## GitHub Skyline:
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Skyline" width="100%" />
+</p>
 <br>
 
 ---
