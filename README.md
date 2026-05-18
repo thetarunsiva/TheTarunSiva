@@ -11,7 +11,7 @@
 
 ---
 
-## Tech stack
+## Tech Stack:
 <p align="center">
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## Github analytics
+## Github Analytics:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thetarunsiva&theme=tokyonight" width="100%" />
@@ -41,7 +41,7 @@
 
 ---
 
-## Let us connect
+## Reach Out:
 
 <p align="center">
 
