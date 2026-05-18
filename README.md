@@ -41,15 +41,6 @@
 
 ---
 
-## GitHub Skyline
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow-github-grey.svg" alt="GitHub Skyline" width="100%" />
-</p>
-<br>
-
----
-
 ## Let's Connect
 
 <p align="center">
