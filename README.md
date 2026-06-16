@@ -1,13 +1,13 @@
 # Not just another 'GitHub' Profile
 
 ---
-`Full-Stack Developer | Technology Intern @ PhillipCapital | Building ParkinToday`
+`Full-Stack Developer | Intern @ PhillipCapital | Building ParkinToday`
 ---
 
 - **CSE Student @** SSN College of Engineering, Chennai
-- **Built Eventra**, a platform that automatically reads incoming college emails, extracts events and builds you a personalised event dashboard. No more manual Gmail digging! Actively used by 20+ students at SSN and growing
 - Love writing **clean, scalable systems** from MERN apps to real-time data pipelines
 - Always curious about **system design, backend architecture and modern developer tools**
+- **Built Eventra**, a platform that automatically reads incoming college emails, extracts events and builds you a personalised event dashboard. No more manual Gmail digging! Actively used by 20+ students at SSN and growing
 
 ---
 
