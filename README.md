@@ -1,7 +1,7 @@
 # Not just another 'GitHub' Profile
 
 ---
-`Full-Stack Developer | Intern @ PhillipCapital | Building ParkinToday`
+`Full-Stack Developer | Building ParkinToday | Product Engineering`
 ---
 
 - **CSE Student @** SSN College of Engineering, Chennai
